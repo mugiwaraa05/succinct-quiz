@@ -1,20 +1,20 @@
 @media (max-width: 768px) {
   .info_box, .quiz_box {
-    width: 95% !important; /* Full width on phones */
+    width: 95% !important; 
     padding: 10px;
   }
   
   .que_text {
-    font-size: 1.2rem !important; /* Larger text */
+    font-size: 1.2rem !important; 
   }
   
   button, .option {
-    min-height: 48px /* Finger-friendly taps */
+    min-height: 48px 
   }
 }
 
 
-/* importing google fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
     margin: 0;
